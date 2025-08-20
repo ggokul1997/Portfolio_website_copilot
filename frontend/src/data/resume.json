@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "G Gokul",
+    "label": "Prompt Engineer | GenAI Developer | MERN Stack Developer",
+    "image": "/og-image.png",
+    "email": "ggokull997@gmail.com",
+    "phone": "+919074458758",
+    "url": "https://github.com/ggokull997",
+    "summary": "Full-Stack Developer & AI Engineer with expertise in designing and deploying enterprise AI agents using the MERN stack, LangChain, LangGraph, and OpenAI APIs. Experienced in building agentic RAG systems, knowledge in pipelines, and intuitive interfaces for non-technical users. Fast learner with an engineering mindset and a passion for transforming complex enterprise workflows into seamless user experiences.",
+    "location": {
+      "city": "Alappuzha",
+      "region": "Kerala",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ggokull997",
+        "url": "https://github.com/ggokull997"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NT Global Solutions",
+      "position": "Agentic AI Developer Intern",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "summary": "Built agentic AI systems with LangChain, OpenAI, LlamaIndex, and LangSmith, improving usability through RAG pipelines, prompting, and workflow automation on real-world data.",
+      "highlights": []
+    },
+    {
+      "name": "LULU Group",
+      "position": "IT Operations",
+      "startDate": "2024-09",
+      "endDate": "2025-04",
+      "summary": "Set up and configured IT systems for business operations. Troubleshot and resolved supermarket POS issues. Managed SAP tasks to streamline operations. Provided cross department technical support. Maintained smooth IT operations through problem-solving.",
+      "highlights": []
+    },
+    {
+      "name": "Luminar Techno Lab",
+      "position": "MERN Stack Developer Intern",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "summary": "Developed Node.js applications and server backends with request/response handling. Used NPM for package management. Applied callbacks, event-driven programming, event loop, and event emitter concepts. Performed file system operations and utilized global objects/utility modules. Developed and scaled REST APIs.",
+      "highlights": []
+    },
+    {
+      "name": "Polmor Pvt Ltd",
+      "position": "Mechanical Engineering Designer",
+      "startDate": "2022-01",
+      "endDate": "2023-10",
+      "summary": "Mechanical engineering design and drafting for manufacturing projects.",
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "BranchGPT",
+      "description": "ChatGPT-like app with branching agent memory. Built a custom UI to spawn sidebar threads on selected text for contextual queries. Enabled parallel reasoning using LangChain agents and OpenAI Assistants.",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "Semantic Subtitle Translator",
+      "description": "AI-enhanced YouTube subtitle Chrome extension. Translates and injects real-time YouTube subtitles using LangChain & OpenAI.",
+      "url": "",
+      "highlights": []
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Full MERN stack shopping platform with cart, login, and backend dashboard.",
+      "url": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Raja Reddy Institute of Technology",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Tech",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Stack",
+      "keywords": ["MongoDB", "Express.js", "React.js", "Node.js"]
+    },
+    {
+      "name": "AI Frameworks",
+      "keywords": ["LangChain", "LangGraph", "LlamaIndex"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": ["React", "React Router", "Redux", "Chrome Extension Development"]
+    },
+    {
+      "name": "Backend & APIs",
+      "keywords": ["Node.js", "REST APIs", "Data Modeling", "Flask (Python)"]
+    },
+    {
+      "name": "DevOps & Tools",
+      "keywords": ["Git", "GitHub", "NPM"]
+    },
+    {
+      "name": "Prompt Engineering & RAG",
+      "keywords": ["Prompt Engineering", "RAG Systems", "Vector Embeddings"]
+    },
+    {
+      "name": "Networking",
+      "keywords": ["Networking"]
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Professional" },
+    { "language": "Malayalam", "fluency": "Native" },
+    { "language": "Hindi", "fluency": "Professional" }
+  ],
+  "certificates": [],
+  "awards": []
+}
+
